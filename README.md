@@ -1,7 +1,5 @@
 # DATE:24-08-24
 # EX NO-1 Mean and variance of a discrete  distribution
-## Name: K KESAVA SAI
-## Register Number: 212223230105
 
 # Aim : 
 
